@@ -4,7 +4,7 @@
   "description": "Test project",
   "main": "src/index.js",
   "scripts": {
-    "build": "webpack --config webpack/prod.js ",
+    "build": "webpack --config webpack/prod.js",
     "start": "webpack-dev-server --config webpack/base.js --open"
   },
   "repository": {
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/mpaukov/test-Phaser3/issues"
   },
-  "homepage": "https://github.com/mpaukov/test-Phaser3#readme",
+  "homepage": "https://mpaukov.github.io/test-Phaser3#readme",
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-env": "^7.7.1",
