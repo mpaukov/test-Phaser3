@@ -8,7 +8,11 @@ class MyGame extends Phaser.Scene {
   }
 
   preload() {
-    this.load.multiatlas("cityscene", "assets/cityscene.json", "assets");
+    this.load.multiatlas(
+      "cityscene",
+      "../src/assets/cityscene.json",
+      "../src/assets"
+    );
   }
 
   create() {
