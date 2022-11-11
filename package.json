@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/mpaukov/test-Phaser3/issues"
   },
-  "homepage": "https://mpaukov.github.io/test-Phaser3",
+  "homepage": "https://mpaukov.github.io/test-Phaser3/",
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-env": "^7.7.1",
