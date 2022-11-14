@@ -24,9 +24,4 @@ module.exports = merge(base, {
       }),
     ],
   },
-  plugins: [
-    new CopyPlugin({
-      patterns: [{ from: "/assets", to: "dest/assets" }],
-    }),
-  ],
 });
